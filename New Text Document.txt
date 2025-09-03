@@ -1,0 +1,8 @@
+Topics covered:-
+basic syntax
+arrays
+arraylist
+hashset
+linkedhashset
+treeset
+map
